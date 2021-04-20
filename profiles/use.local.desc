@@ -1,0 +1,6 @@
+# This file is deprecated as per GLEP 56 in favor of metadata.xml.
+# Please add your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
+
+net-print/magicfilter:lprng-failsafe - Refuse options for compability with certain LPRng versions.
+net-voip/twinkle:g729 - Add support for the G.729A audio codec

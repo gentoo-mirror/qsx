@@ -1,0 +1,21 @@
+app-crypt/acmebot 2.7.1-r1 9999: Certificate manager bot using ACME protocol
+app-pda/dpt-rp1-py 0.1.11: Python package to manage a Sony DPT-RP1
+app-text/extractpdfmark 1.1.0: Extract page mode and named destinations as PDFmark from PDF
+dev-python/anytree 2.8.0: Powerful and Lightweight Python Tree Data Structure
+dev-python/httpsig 1.3.0: Secure HTTP request signing using the HTTP Signature draft specification
+dev-python/patiencediff 0.2.1: Python implementation of the patiencediff algorithm
+dev-python/python-miio 0.4.8: Python library & console tool for controlling Xiaomi smart appliances
+dev-vcs/breezy 3.1.0: Breezy is a friendly powerful distributed version control system.
+mail-client/mblaze 1.1 9999: Unix utilities to deal with Maildir
+media-libs/ccrtp 2.1.2: GNU ccRTP is an implementation of RTP
+media-libs/lpcnet-freedv 0.2: Experimental Neural Net speech coding for FreeDV
+media-radio/freedv 1.4: FreeDV is a Digital Voice mode for HF radio.
+net-mail/lieer 1.3: Fast email-fetching and two-way tag synchronization between notmuch and GMail
+net-mail/public-inbox 1.3.0 1.6.1: an 'archives first' approach to mailing lists
+net-misc/wide-dhcpv6 20080615: WIDE project DHCPv6 client and server
+net-print/lprng 3.8c: Extended implementation of the Berkeley LPR print spooler
+net-print/magicfilter 2.3i: Customizable, extensible automatic printer filter
+net-voip/twinkle 1.10.2 9999: Twinkle is a SIP-based VoIP client.
+sys-apps/mmc-utils 0_pre20191004: Userspace tools for MMC/SD devices
+sys-kernel/dracut 049_p20191222: Generic initramfs generation tool
+sys-libs/termpaint 9999: low level terminal interface library
