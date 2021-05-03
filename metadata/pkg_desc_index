@@ -9,6 +9,7 @@ dev-vcs/breezy 3.1.0: Breezy is a friendly powerful distributed version control 
 mail-client/mblaze 1.1 9999: Unix utilities to deal with Maildir
 media-libs/ccrtp 2.1.2: GNU ccRTP is an implementation of RTP
 media-libs/lpcnet-freedv 0.2: Experimental Neural Net speech coding for FreeDV
+media-radio/freedv 1.4: FreeDV is a Digital Voice mode for HF radio.
 net-mail/lieer 1.3: Fast email-fetching and two-way tag synchronization between notmuch and GMail
 net-mail/public-inbox 1.3.0 1.6.1: an 'archives first' approach to mailing lists
 net-misc/wide-dhcpv6 20080615: WIDE project DHCPv6 client and server
