@@ -3,6 +3,7 @@ app-pda/dpt-rp1-py 0.1.12: Python package to manage a Sony DPT-RP1
 app-text/extractpdfmark 1.1.0: Extract page mode and named destinations as PDFmark from PDF
 dev-python/anytree 2.8.0: Powerful and Lightweight Python Tree Data Structure
 dev-python/httpsig 1.3.0: Secure HTTP request signing using the HTTP Signature draft specification
+dev-python/mitogen 0.3.0_rc1: Distributed self-replicating programs in Python
 dev-python/patiencediff 0.2.1: Python implementation of the patiencediff algorithm
 dev-vcs/breezy 3.1.0: Breezy is a friendly powerful distributed version control system.
 mail-client/mblaze 1.1 9999: Unix utilities to deal with Maildir
