@@ -3,7 +3,7 @@
 
 EAPI=7
 
-PYTHON_COMPAT=( python3_{7,8} )
+PYTHON_COMPAT=( python3_{7..9} )
 DISTUTILS_USE_SETUPTOOLS=rdepend
 inherit distutils-r1
 
@@ -13,7 +13,7 @@ HOMEPAGE="https://github.com/janten/dpt-rp1-py"
 SRC_URI="https://github.com/janten/dpt-rp1-py/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 KEYWORDS="~amd64"
 
-LICENSE="MIT"
+LICENSE="MIT Apache-2.0"
 
 SLOT="0"
 
