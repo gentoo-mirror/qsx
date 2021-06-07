@@ -1,4 +1,5 @@
 app-crypt/acmebot 2.7.3 9999: Certificate manager bot using ACME protocol
+app-emulation/minivmac 36.04: A miniature early Macintosh emulator
 app-pda/dpt-rp1-py 0.1.12: Python package to manage a Sony DPT-RP1
 app-text/extractpdfmark 1.1.0: Extract page mode and named destinations as PDFmark from PDF
 dev-python/anytree 2.8.0: Powerful and Lightweight Python Tree Data Structure

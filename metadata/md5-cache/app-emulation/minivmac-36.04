@@ -1,0 +1,14 @@
+DEFINED_PHASES=configure install
+DEPEND=alsa? ( media-libs/alsa-lib ) x11-libs/libX11
+DESCRIPTION=A miniature early Macintosh emulator
+EAPI=7
+HOMEPAGE=https://www.gryphel.com/c/minivmac/
+INHERIT=toolchain-funcs
+IUSE=+alsa
+KEYWORDS=~amd64 ~arm
+LICENSE=GPL-2
+RDEPEND=alsa? ( media-libs/alsa-lib ) x11-libs/libX11
+SLOT=0
+SRC_URI=https://www.gryphel.com/d/minivmac/minivmac-36.04/minivmac-36.04.src.tgz
+_eclasses_=toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e
+_md5_=4e37da8d9d0f4e8bc99a1cb0816441f4
