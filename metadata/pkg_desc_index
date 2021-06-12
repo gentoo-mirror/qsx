@@ -19,5 +19,6 @@ net-print/magicfilter 2.3i: Customizable, extensible automatic printer filter
 net-voip/twinkle 1.10.2 9999: Twinkle is a SIP-based VoIP client.
 sys-apps/heirloom-devtools 070527: Heirloom development tools -- original Unix tools
 sys-apps/mmc-utils 0_pre20191004: Userspace tools for MMC/SD devices
+sys-block/partclone 0.3.17: The Free and Open Source Software for Partition Imaging and Cloning
 sys-kernel/dracut 049_p20191222: Generic initramfs generation tool
 sys-libs/termpaint 9999: low level terminal interface library

@@ -4,3 +4,8 @@
 
 net-print/magicfilter:lprng-failsafe - Refuse options for compability with certain LPRng versions.
 net-voip/twinkle:g729 - Add support for the G.729A audio codec
+sys-block/partclone:extfs - Support ext2/3/4 file systems
+sys-block/partclone:fuse - Enable FUSE image support
+sys-block/partclone:nilfs2 - Support NILFS2 file system
+sys-block/partclone:ntfs - Support NTFS file system
+sys-block/partclone:reiser4 - Support Reiser4 file system
