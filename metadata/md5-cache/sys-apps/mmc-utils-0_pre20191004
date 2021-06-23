@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~arm64
 LICENSE=GPL-2 BSD
 SLOT=0
 SRC_URI=https://git.kernel.org/pub/scm/utils/mmc/mmc-utils.git/snapshot/mmc-utils-73d6c59af8d1bcedf5de4aa1f5d5b7f765f545f5.tar.gz -> mmc-utils-0_pre20191004.tar.gz
-_eclasses_=toolchain-funcs	e867df3870e8ff04a5b94f925be8b06a	multilib	f8d35c2432bb32c4f1e779c4287b31ec
+_eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352
 _md5_=1bfee438022774923d9cac70b0a2d9ec
