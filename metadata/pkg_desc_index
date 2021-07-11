@@ -24,3 +24,4 @@ sys-apps/mmc-utils 0_pre20191004: Userspace tools for MMC/SD devices
 sys-block/partclone 0.3.17: The Free and Open Source Software for Partition Imaging and Cloning
 sys-kernel/dracut 049_p20191222: Generic initramfs generation tool
 sys-libs/termpaint 9999: low level terminal interface library
+x11-misc/rofi-wayland 1.6.1: A window switcher, run dialog and dmenu replacement -- wayland fork
