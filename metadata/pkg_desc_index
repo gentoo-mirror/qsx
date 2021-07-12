@@ -10,6 +10,7 @@ dev-python/patiencediff 0.2.1: Python implementation of the patiencediff algorit
 dev-vcs/breezy 3.1.0: Breezy is a friendly powerful distributed version control system.
 gui-apps/wdisplays 1.1: GUI display configurator for wlroots compositors
 gui-apps/wlsunset 0.2.0: Day/night gamma adjustments for Wayland
+gui-wm/cage 0.1.4: A Wayland kiosk
 mail-client/mblaze 1.1 9999: Unix utilities to deal with Maildir
 media-libs/ccrtp 2.1.2: GNU ccRTP is an implementation of RTP
 media-libs/lpcnet-freedv 0.2: Experimental Neural Net speech coding for FreeDV
