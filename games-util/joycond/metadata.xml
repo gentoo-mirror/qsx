@@ -6,8 +6,6 @@
     <name>Thomas Schneider</name>
   </maintainer>
   <upstream>
-    <remote-id type="github">tomnomnom/gron</remote-id>
-    <changelog>https://github.com/tomnomnom/gron/blob/master/CHANGELOG.mkd</changelog>
-    <bugs-to>https://github.com/tomnomnom/gron/issues/new/choose</bugs-to>
+    <remote-id type="github">DanielOgorchock/joycond</remote-id>
   </upstream>
 </pkgmetadata>

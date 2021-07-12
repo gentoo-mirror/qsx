@@ -7,9 +7,11 @@
   </maintainer>
   <upstream>
     <maintainer>
-      <email>c0fec0de@gmail.com</email>
-      <name>c0fec0de</name>
+      <name>Joan Moreau</name>
+      <email>jom@grosjo.net</email>
     </maintainer>
-    <remote-id type="github">c0fec0de/anytree</remote-id>
+    <remote-id type="github">grosjo/fts-xapian</remote-id>
+    <changelog>https://github.com/grosjo/fts-xapian/releases</changelog>
+    <bugs-to>https://github.com/grosjo/fts-xapian/issues/new</bugs-to>
   </upstream>
 </pkgmetadata>
