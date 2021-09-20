@@ -20,6 +20,7 @@ media-radio/freedv 1.4 1.6.0: FreeDV is a Digital Voice mode for HF radio.
 net-mail/dovecot-fts-xapian 1.4.11: Dovecot FTS plugin based on Xapian
 net-mail/lieer 1.3: Fast email-fetching and two-way tag synchronization between notmuch and GMail
 net-mail/public-inbox 1.3.0 1.6.1: an 'archives first' approach to mailing lists
+net-misc/ifupdown-ng 0.11.3 9999: Flexible ifup/ifdown implementation
 net-misc/wide-dhcpv6 20080615: WIDE project DHCPv6 client and server
 net-print/lprng 3.8c: Extended implementation of the Berkeley LPR print spooler
 net-print/magicfilter 2.3i: Customizable, extensible automatic printer filter
