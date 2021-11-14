@@ -1,5 +1,6 @@
 app-crypt/acmebot 2.7.3 9999: Certificate manager bot using ACME protocol
 app-emulation/minivmac 36.04: A miniature early Macintosh emulator
+app-metrics/mqtt2prometheus 0.1.5: MQTT to Prometheus gateway
 app-pda/dpt-rp1-py 0.1.12: Python package to manage a Sony DPT-RP1
 app-text/extractpdfmark 1.1.0: Extract page mode and named destinations as PDFmark from PDF
 app-text/gron 0.6.1: Make JSON greppable!
