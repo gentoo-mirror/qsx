@@ -14,7 +14,7 @@ games-util/joycond 0.1.0: Userspace daemon to combine joy-cons from the hid-nint
 gui-apps/wdisplays 1.1: GUI display configurator for wlroots compositors
 gui-apps/wlsunset 0.2.0: Day/night gamma adjustments for Wayland
 gui-wm/cage 0.1.4: A Wayland kiosk
-mail-client/mblaze 1.1 9999: Unix utilities to deal with Maildir
+mail-client/mblaze 1.2 9999: Unix utilities to deal with Maildir
 media-libs/ccrtp 2.1.2: GNU ccRTP is an implementation of RTP
 media-libs/lpcnet-freedv 0.2-r1: Experimental Neural Net speech coding for FreeDV
 media-radio/freedv 1.4 1.6.0: FreeDV is a Digital Voice mode for HF radio.
