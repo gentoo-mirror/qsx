@@ -1,0 +1,14 @@
+BDEPEND=app-text/scdoc dev-util/wayland-scanner virtual/pkgconfig
+DEFINED_PHASES=configure install prepare
+DEPEND=dev-libs/wayland-protocols dev-libs/wayland x11-libs/libxkbcommon[wayland]
+DESCRIPTION=wayland event viewer
+EAPI=7
+HOMEPAGE=https://git.sr.ht/~sircmpwn/wev
+INHERIT=toolchain-funcs
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=dev-libs/wayland x11-libs/libxkbcommon[wayland]
+SLOT=0
+SRC_URI=https://git.sr.ht/~sircmpwn/wev/archive/1.0.0.tar.gz -> wev-1.0.0.tar.gz https://git.sr.ht/~sircmpwn/wev/commit/0be512fb705831b55020e1eaf86eedba0eae4a75.patch https://git.sr.ht/~sircmpwn/wev/commit/54de46d120396ead4dcbce0b52cf506c200380f5.patch
+_eclasses_=toolchain-funcs	badd6e329e1f3e6bee99b35bf8763ce8	multilib	de4beb52bfa93c4c5d96792a6b5e1784
+_md5_=626d6e703a2ec2ff9833a88c84223826

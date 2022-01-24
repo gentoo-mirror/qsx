@@ -12,6 +12,7 @@ dev-python/patiencediff 0.2.1: Python implementation of the patiencediff algorit
 dev-vcs/breezy 3.1.0: Breezy is a friendly powerful distributed version control system.
 games-util/joycond 0.1.0: Userspace daemon to combine joy-cons from the hid-nintendo kernel driver
 gui-apps/wdisplays 1.1: GUI display configurator for wlroots compositors
+gui-apps/wev 1.0.0: wayland event viewer
 gui-apps/wlsunset 0.2.0: Day/night gamma adjustments for Wayland
 gui-wm/cage 0.1.4: A Wayland kiosk
 mail-client/mblaze 1.2 9999: Unix utilities to deal with Maildir
