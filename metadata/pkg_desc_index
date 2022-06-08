@@ -33,5 +33,4 @@ sys-apps/mmc-utils 0_pre20191004: Userspace tools for MMC/SD devices
 sys-block/partclone 0.3.17: The Free and Open Source Software for Partition Imaging and Cloning
 sys-libs/termpaint 0_pre20210624 9999: low level terminal interface library
 sys-process/btop 1.2.6: A monitor of resources
-sys-process/catatonit 0.1.5: A container init that is so simple it's effectively brain-dead
 x11-misc/rofi-wayland 1.6.1: A window switcher, run dialog and dmenu replacement -- wayland fork
