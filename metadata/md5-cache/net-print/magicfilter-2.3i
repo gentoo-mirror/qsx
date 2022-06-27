@@ -10,5 +10,5 @@ LICENSE=BSD GPL-2
 RDEPEND=app-text/ghostscript-gpl lprng-failsafe? ( net-print/lprng )
 SLOT=0
 SRC_URI=https://github.com/Orc/magicfilter/archive/v2.3.i.tar.gz -> magicfilter-2.3.i.tar.gz
-_eclasses_=toolchain-funcs	fd9cde67030b26e479eeadaced488253	multilib	4fbbbc98f236f1b43acd99476bc3cd85
+_eclasses_=toolchain-funcs	e9da88162e7a3c60376e80c2c2adcdfb	multilib	4fbbbc98f236f1b43acd99476bc3cd85
 _md5_=b995ef443bb3fe38fcfd77d52d021faf
