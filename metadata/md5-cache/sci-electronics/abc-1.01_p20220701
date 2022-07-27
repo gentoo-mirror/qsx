@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install prepare
+DEPEND=app-arch/bzip2:= sys-libs/readline:= sys-libs/zlib:=
+DESCRIPTION=ABC: System for Sequential Logic Synthesis and Formal Verification
+EAPI=7
+HOMEPAGE=https://github.com/YosysHQ/abc
+INHERIT=toolchain-funcs
+KEYWORDS=~amd64
+LICENSE=Old-MIT
+RDEPEND=app-arch/bzip2:= sys-libs/readline:= sys-libs/zlib:=
+SLOT=0
+SRC_URI=https://github.com/YosysHQ/abc/archive/18634305282c81b0f4a08de4ebca6ccc95b11748.tar.gz -> abc-1.01_p20220701.tar.gz
+_eclasses_=toolchain-funcs	1542e649be915f43f6908a9e93909961	multilib	5ca4e49abed8e3a2f7b56920eadee157
+_md5_=a400ff4f70e5a2224081262c8ce70c68
