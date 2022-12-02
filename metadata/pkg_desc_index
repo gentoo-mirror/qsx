@@ -12,9 +12,11 @@ dev-python/patiencediff 0.2.1: Python implementation of the patiencediff algorit
 dev-python/pydns 3.2.1: Python DNS (Domain Name System) library
 dev-vcs/breezy 3.1.0: Breezy is a friendly powerful distributed version control system.
 games-util/joycond 0.1.0: Userspace daemon to combine joy-cons from the hid-nintendo kernel driver
+gui-apps/rofimoji 6.0.0: Emoji, unicode and general character picker for rofi and rofi-likes
 gui-apps/wdisplays 1.1: GUI display configurator for wlroots compositors
 gui-apps/wev 1.0.0: wayland event viewer
 gui-apps/wlsunset 0.2.0: Day/night gamma adjustments for Wayland
+gui-apps/wtype 0.4: xdotool type for wayland
 gui-wm/cage 0.1.4: A Wayland kiosk
 mail-client/mblaze 1.2 9999: Unix utilities to deal with Maildir
 media-libs/ccrtp 2.1.2: GNU ccRTP is an implementation of RTP
