@@ -1,4 +1,4 @@
-BDEPEND=sys-devel/bison sys-devel/flex virtual/pkgconfig || ( >=dev-lang/python-3.10.9:3.10 >=dev-lang/python-3.9.16:3.9 >=dev-lang/python-3.8.16:3.8 ) test? ( sci-electronics/abc sci-electronics/iverilog )
+BDEPEND=sys-devel/bison sys-devel/flex virtual/pkgconfig || ( >=dev-lang/python-3.10.9:3.10 >=dev-lang/python-3.9.16:3.9 ) test? ( sci-electronics/abc sci-electronics/iverilog )
 DEFINED_PHASES=configure setup
 DEPEND=tcl? ( dev-lang/tcl:= ) libffi? ( dev-libs/libffi:= ) readline? ( sys-libs/readline:= ) libedit? ( dev-libs/libedit:= ) zlib? ( sys-libs/zlib:= )
 DESCRIPTION=Framework for Verilog RTL synthesis
@@ -13,5 +13,5 @@ REQUIRED_USE=?? ( readline libedit )
 RESTRICT=!test? ( test )
 SLOT=0
 SRC_URI=https://github.com/YosysHQ/yosys/archive/refs/tags/yosys-0.19.tar.gz
-_eclasses_=eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	7870d60e8b98856ef02d33397fd5ec0f	python-any-r1	d2955aaac8daaaa69fcc6dc93ed19f29
+_eclasses_=eapi8-dosym	cd7d420bb5be5ee079f27239ce76b8f5	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	python-utils-r1	a1a985ddd8795a8634b4b7f820b93143	python-any-r1	d2955aaac8daaaa69fcc6dc93ed19f29
 _md5_=7d35a81cdc20b75aad5c1e18ca66c784
