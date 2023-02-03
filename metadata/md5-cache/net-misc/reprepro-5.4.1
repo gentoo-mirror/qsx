@@ -1,0 +1,17 @@
+BDEPEND=test? ( dev-util/shunit2 app-arch/dpkg sys-libs/db ) sys-devel/gnuconfig >=app-portage/elt-patches-20170815 || ( >=sys-devel/automake-1.16.5:1.16 ) >=sys-devel/autoconf-2.71-r5 >=sys-devel/libtool-2.4.7
+DEFINED_PHASES=configure install postinst prepare
+DEPEND=sys-libs/db:= sys-libs/zlib:= bzip2? ( app-arch/bzip2:= ) crypt? ( app-crypt/gpgme:= ) libarchive? ( app-arch/libarchive:= ) lzma? ( app-arch/lzma ) test? ( app-arch/libarchive[lzma] )
+DESCRIPTION=Debian package repository producer
+EAPI=7
+HOMEPAGE=https://packages.debian.org/stable/reprepro
+INHERIT=autotools bash-completion-r1 db-use optfeature
+IUSE=bzip2 crypt +libarchive lzma test
+KEYWORDS=~amd64 ~arm64
+LICENSE=GPL-2 GPL-2+ MIT public-domain ISC
+RDEPEND=sys-libs/db:= sys-libs/zlib:= bzip2? ( app-arch/bzip2:= ) crypt? ( app-crypt/gpgme:= ) libarchive? ( app-arch/libarchive:= ) lzma? ( app-arch/lzma )
+REQUIRED_USE=test? ( libarchive )
+RESTRICT=!test? ( test )
+SLOT=0
+SRC_URI=mirror://debian/pool/main/r/reprepro/reprepro_5.4.1.orig.tar.xz
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	9a610728b9bcca1919234cceb35a1027	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc	bash-completion-r1	f5e7a020fd9c741740756aac61bf75ff	db-use	3807d3e43e20aaa6e4decedd2bb2db4c	optfeature	1a2157392a869265b2afcb63a26c12ac
+_md5_=eaa326ad55cfaf7cb781b0ea16c03e1d

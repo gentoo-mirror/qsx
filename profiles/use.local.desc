@@ -3,6 +3,7 @@
 # * generated automatically using pmaint *
 
 gui-wm/cage:X - Enable support for X11 applications (XWayland)
+net-misc/reprepro:libarchive - Use libarchive for reading package files
 net-print/magicfilter:lprng-failsafe - Refuse options for compability with certain LPRng versions.
 net-voip/twinkle:g729 - Add support for the G.729A audio codec
 sys-block/partclone:extfs - Support ext2/3/4 file systems
