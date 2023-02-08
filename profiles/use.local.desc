@@ -11,5 +11,6 @@ sys-block/partclone:fuse - Enable FUSE image support
 sys-block/partclone:nilfs2 - Support NILFS2 file system
 sys-block/partclone:ntfs - Support NTFS file system
 sys-block/partclone:reiser4 - Support Reiser4 file system
+sys-libs/termpaint:tools - Install additional tools
 x11-misc/rofi-wayland:drun - Enable desktop file run dialog
 x11-misc/rofi-wayland:windowmode - Enable normal window mode
