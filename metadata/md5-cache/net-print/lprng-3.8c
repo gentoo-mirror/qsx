@@ -11,5 +11,5 @@ LICENSE=|| ( GPL-2 Artistic )
 RDEPEND=sys-process/procps ssl? ( dev-libs/openssl ) !>=net-print/cups-1.6.2-r4[-lprng-compat] !<net-print/cups-1.6.2-r4 acct-group/lp kerberos? ( app-crypt/mit-krb5 )
 SLOT=0
 SRC_URI=mirror://sourceforge/project/lprng/lprng/lprng-3.8.C.tar.gz
-_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	cf009a3ed4e5bef503e7a9f215791a78	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc	systemd	5f4bb0758df2e483babf68cd517078ca
+_eclasses_=gnuconfig	b6b3e92f8b8c996400074b5f61a59256	toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	libtool	241a8f577b9781a42a7421e53448a44e	autotools	6dcd6b6a486e79928e1243ff9ba41fcc	systemd	5f4bb0758df2e483babf68cd517078ca
 _md5_=881956cc95293381a6bcc3259206dbaf
