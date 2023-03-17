@@ -1,0 +1,16 @@
+BDEPEND=wayland? ( dev-util/wayland-scanner ) doc? ( dev-python/sphinx dev-python/sphinx-rtd-theme ) >=dev-util/ninja-1.8.2 >=dev-util/cmake-3.20.5
+DEFINED_PHASES=compile configure install prepare test
+DEPEND=media-libs/libglvnd[X?] x11-libs/libxkbcommon[X?,wayland?] media-libs/fontconfig dev-libs/nettle:=[gmp] X? ( x11-libs/libX11 x11-libs/libXi x11-libs/libXfixes x11-libs/libXScrnSaver x11-libs/libXinerama x11-libs/libXcursor x11-libs/libXpresent ) debug? ( sys-libs/binutils-libs:= ) pipewire? ( media-video/pipewire:= media-libs/libsamplerate ) pulseaudio? ( media-libs/libpulse media-libs/libsamplerate ) wayland? ( dev-libs/wayland ) app-emulation/spice-protocol
+DESCRIPTION=A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
+EAPI=8
+HOMEPAGE=https://looking-glass.io/
+INHERIT=cmake
+IUSE=X debug doc pipewire pulseaudio wayland
+KEYWORDS=~amd64
+LICENSE=GPL-2 MIT ZLIB
+RDEPEND=media-libs/libglvnd[X?] x11-libs/libxkbcommon[X?,wayland?] media-libs/fontconfig dev-libs/nettle:=[gmp] X? ( x11-libs/libX11 x11-libs/libXi x11-libs/libXfixes x11-libs/libXScrnSaver x11-libs/libXinerama x11-libs/libXcursor x11-libs/libXpresent ) debug? ( sys-libs/binutils-libs:= ) pipewire? ( media-video/pipewire:= media-libs/libsamplerate ) pulseaudio? ( media-libs/libpulse media-libs/libsamplerate ) wayland? ( dev-libs/wayland )
+REQUIRED_USE=|| ( X wayland )
+SLOT=0
+SRC_URI=https://looking-glass.io/artifact/B6/source -> looking-glass-0_beta6.tar.gz
+_eclasses_=toolchain-funcs	6001248ef162a5fa2a21ce132a212f6b	multilib	5ca4e49abed8e3a2f7b56920eadee157	flag-o-matic	69394e25812406faa1f90edaf4969395	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	ninja-utils	38c85b725d0467e51954ea921b6c104b	xdg-utils	ac0e315a3688929e34ac75b139e7349a	cmake	b2e109b7341cd993b8bdfcc60652a14d
+_md5_=c1fa95fa93aaef52237b31721304173d

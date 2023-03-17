@@ -1,4 +1,5 @@
 app-crypt/acmebot 2.7.4 9999: Certificate manager bot using ACME protocol
+app-emulation/looking-glass 0_beta6: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
 app-emulation/minivmac 36.04: A miniature early Macintosh emulator
 app-metrics/mqtt2prometheus 0.1.5: MQTT to Prometheus gateway
 app-pda/dpt-rp1-py 0.1.16: Python package to manage a Sony DPT-RP1
