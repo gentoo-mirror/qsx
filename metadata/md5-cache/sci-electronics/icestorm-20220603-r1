@@ -1,4 +1,4 @@
-BDEPEND=iceprog? ( virtual/pkgconfig ) python_single_target_python3_10? ( >=dev-lang/python-3.10.12:3.10 )
+BDEPEND=iceprog? ( virtual/pkgconfig ) python_single_target_python3_10? ( dev-lang/python:3.10 )
 DEFINED_PHASES=configure install prepare setup test
 DEPEND=iceprog? ( dev-embedded/libftdi:= )
 DESCRIPTION=Lattice iCE40 FPGAs Bitstream Documentaion (Reverse Engineered)
@@ -8,9 +8,9 @@ INHERIT=python-single-r1 toolchain-funcs
 IUSE=iceprog +python_single_target_python3_10
 KEYWORDS=~amd64
 LICENSE=ISC
-RDEPEND=iceprog? ( dev-embedded/libftdi:= ) python_single_target_python3_10? ( >=dev-lang/python-3.10.12:3.10 )
+RDEPEND=iceprog? ( dev-embedded/libftdi:= ) python_single_target_python3_10? ( dev-lang/python:3.10 )
 REQUIRED_USE=^^ ( python_single_target_python3_10 )
 SLOT=0
 SRC_URI=https://github.com/YosysHQ/icestorm/archive/2bc541743ada3542c6da36a50e66303b9cbd2059.tar.gz -> icestorm-20220603.tar.gz
-_eclasses_=eapi8-dosym	5ac4857ad078256d939c44f7c64197a9	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	a013e16d5d896b3d8be68dd2a0e846ea	python-single-r1	75118e916668a74c660a13b0ecb22562
+_eclasses_=eapi8-dosym	5ac4857ad078256d939c44f7c64197a9	multiprocessing	b4e253ab22cef7b1085e9b67c7a3b730	toolchain-funcs	513c31b3346458ed1f3878b57da6d61c	multilib	c19072c3cd7ac5cb21de013f7e9832e0	python-utils-r1	7661dc585f75dd1f81eccefe37bef093	python-single-r1	75118e916668a74c660a13b0ecb22562
 _md5_=96c32ead1d12645c7f024f400f68482f
