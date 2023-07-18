@@ -1,9 +1,9 @@
-# Copyright 2022 Thomas Schneider <qsx@chaotikum.eu>
+# Copyright 2023 Thomas Schneider <qsx@chaotikum.eu>
 # Licensed under the EUPL
 
 EAPI=7
 
-PYTHON_COMPAT=( python3_10 )
+PYTHON_COMPAT=( python3_{10,11} )
 DISTUTILS_USE_SETUPTOOLS=rdepend
 inherit distutils-r1
 
@@ -19,7 +19,7 @@ SLOT="0"
 
 REQUIRED_USE="${PYTHON_REQUIRED_USE}"
 
-BDEPEND="dev-python/setuptools_scm[${PYTHON_USEDEP}]"
+BDEPEND="dev-python/setuptools-scm[${PYTHON_USEDEP}]"
 RDEPEND="
 	>=dev-python/httpsig-1.1.2[${PYTHON_USEDEP}]
 	>=dev-python/requests-2.18.4[${PYTHON_USEDEP}]
