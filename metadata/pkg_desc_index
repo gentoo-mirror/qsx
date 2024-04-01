@@ -9,7 +9,6 @@ dev-cpp/docopt 0.6.3: C++11 port of docopt
 dev-cpp/posixsignalmanager 0.3: Handling of posix signals for Qt applications and libraries
 dev-cpp/replxx 0.0.4: A readline and libedit replacement
 dev-embedded/rkdeveloptool 1.32: Tool from Rockchip to communicate with Rockusb devices
-dev-python/anytree 2.8.0: Powerful and Lightweight Python Tree Data Structure
 dev-python/httpsig 1.3.0: Secure HTTP request signing using the HTTP Signature draft specification
 dev-python/pydns 3.2.1: Python DNS (Domain Name System) library
 games-util/joycond 0.1.0: Userspace daemon to combine joy-cons from the hid-nintendo kernel driver
