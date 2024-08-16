@@ -7,5 +7,5 @@ KEYWORDS=~amd64 ~arm64
 LICENSE=BSD-4 CDDL
 SLOT=0
 SRC_URI=mirror://sourceforge/project/heirloom/heirloom-devtools/070527/heirloom-devtools-070527.tar.bz2
-_eclasses_=toolchain-funcs	0c713337f7872f1a002cecaaea9bef73	multilib	c19072c3cd7ac5cb21de013f7e9832e0
+_eclasses_=toolchain-funcs	5f8f1dc0c94e007fa08af4e98a19d0e5	multilib	c19072c3cd7ac5cb21de013f7e9832e0
 _md5_=14e6ef2f00788a8ce8cb050dc286ed79
