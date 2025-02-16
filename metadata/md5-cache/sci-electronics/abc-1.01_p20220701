@@ -9,5 +9,5 @@ LICENSE=Old-MIT
 RDEPEND=app-arch/bzip2:= sys-libs/readline:= sys-libs/zlib:=
 SLOT=0
 SRC_URI=https://github.com/YosysHQ/abc/archive/18634305282c81b0f4a08de4ebca6ccc95b11748.tar.gz -> abc-1.01_p20220701.tar.gz
-_eclasses_=toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96
+_eclasses_=toolchain-funcs	6afdb6107430c1832ca7e16aacbf8fa1	multilib	b2a329026f2e404e9e371097dda47f96
 _md5_=a400ff4f70e5a2224081262c8ce70c68
