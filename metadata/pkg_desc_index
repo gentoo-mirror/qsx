@@ -1,4 +1,3 @@
-app-crypt/acmebot 2.7.4 9999: Certificate manager bot using ACME protocol
 app-emulation/looking-glass 0_beta6: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
 app-emulation/minivmac 36.04: A miniature early Macintosh emulator
 app-metrics/mqtt2prometheus 0.1.5: MQTT to Prometheus gateway
@@ -11,7 +10,6 @@ dev-cpp/replxx 0.0.4: A readline and libedit replacement
 dev-embedded/rkdeveloptool 1.32: Tool from Rockchip to communicate with Rockusb devices
 dev-python/anytree 2.8.0: Powerful and Lightweight Python Tree Data Structure
 dev-python/httpsig 1.3.0: Secure HTTP request signing using the HTTP Signature draft specification
-dev-python/pydns 3.2.1: Python DNS (Domain Name System) library
 games-util/joycond 0.1.0: Userspace daemon to combine joy-cons from the hid-nintendo kernel driver
 gui-apps/rofimoji 6.0.0: Emoji, unicode and general character picker for rofi and rofi-likes
 gui-apps/wdisplays 1.1: GUI display configurator for wlroots compositors
@@ -25,7 +23,6 @@ media-libs/ccrtp 2.1.2: GNU ccRTP is an implementation of RTP
 media-libs/lpcnet-freedv 0.2-r1: Experimental Neural Net speech coding for FreeDV
 media-radio/freedv 1.4 1.6.0: FreeDV is a Digital Voice mode for HF radio.
 net-mail/dovecot-fts-xapian 1.4.11: Dovecot FTS plugin based on Xapian
-net-mail/lieer 1.3: Fast email-fetching and two-way tag synchronization between notmuch and GMail
 net-misc/ifupdown-ng 0.11.3 9999: Flexible ifup/ifdown implementation
 net-misc/reprepro 5.4.2: Debian package repository producer
 net-misc/wide-dhcpv6 20080615: WIDE project DHCPv6 client and server
@@ -33,9 +30,6 @@ net-print/lprng 3.8c: Extended implementation of the Berkeley LPR print spooler
 net-print/magicfilter 2.3i: Customizable, extensible automatic printer filter
 net-voip/twinkle 1.10.2 9999: Twinkle is a SIP-based VoIP client.
 sci-electronics/abc 1.01_p20220701: ABC: System for Sequential Logic Synthesis and Formal Verification
-sci-electronics/icestorm 20220603-r1: Lattice iCE40 FPGAs Bitstream Documentaion (Reverse Engineered)
-sci-electronics/nextpnr 0.3: Portable FPGA place and route tool
-sci-electronics/yosys 0.19: Framework for Verilog RTL synthesis
 sys-apps/heirloom-devtools 070527: Heirloom development tools -- original Unix tools
 sys-apps/mmc-utils 0_pre20191004: Userspace tools for MMC/SD devices
 sys-block/partclone 0.3.17: The Free and Open Source Software for Partition Imaging and Cloning
