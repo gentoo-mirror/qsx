@@ -1,17 +1,13 @@
 app-emulation/looking-glass 0_beta6: A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
 app-emulation/minivmac 36.04: A miniature early Macintosh emulator
 app-metrics/mqtt2prometheus 0.1.5: MQTT to Prometheus gateway
-app-pda/dpt-rp1-py 0.1.16: Python package to manage a Sony DPT-RP1
 app-text/extractpdfmark 1.1.0: Extract page mode and named destinations as PDFmark from PDF
 app-text/gron 0.6.1: Make JSON greppable!
 dev-cpp/docopt 0.6.3: C++11 port of docopt
 dev-cpp/posixsignalmanager 0.3: Handling of posix signals for Qt applications and libraries
 dev-cpp/replxx 0.0.4: A readline and libedit replacement
 dev-embedded/rkdeveloptool 1.32: Tool from Rockchip to communicate with Rockusb devices
-dev-python/anytree 2.8.0: Powerful and Lightweight Python Tree Data Structure
-dev-python/httpsig 1.3.0: Secure HTTP request signing using the HTTP Signature draft specification
 games-util/joycond 0.1.0: Userspace daemon to combine joy-cons from the hid-nintendo kernel driver
-gui-apps/rofimoji 6.0.0: Emoji, unicode and general character picker for rofi and rofi-likes
 gui-apps/wdisplays 1.1: GUI display configurator for wlroots compositors
 gui-apps/wev 1.0.0: wayland event viewer
 gui-apps/wlsunset 0.2.0: Day/night gamma adjustments for Wayland
