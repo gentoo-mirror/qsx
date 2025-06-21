@@ -17,7 +17,6 @@ gui-wm/cage 0.1.4: A Wayland kiosk
 mail-client/mblaze 1.2 9999: Unix utilities to deal with Maildir
 media-libs/ccrtp 2.1.2: GNU ccRTP is an implementation of RTP
 media-libs/lpcnet-freedv 0.2-r1: Experimental Neural Net speech coding for FreeDV
-media-radio/freedv 1.4 1.6.0: FreeDV is a Digital Voice mode for HF radio.
 net-mail/dovecot-fts-xapian 1.4.11: Dovecot FTS plugin based on Xapian
 net-misc/ifupdown-ng 0.11.3 9999: Flexible ifup/ifdown implementation
 net-misc/reprepro 5.4.2: Debian package repository producer
