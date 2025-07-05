@@ -10,5 +10,5 @@ LICENSE=GPL-2
 RDEPEND=alsa? ( media-libs/alsa-lib ) x11-libs/libX11
 SLOT=0
 SRC_URI=https://www.gryphel.com/d/minivmac/minivmac-36.04/minivmac-36.04.src.tgz
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169
+_eclasses_=toolchain-funcs	a6df79c1e9bc84369dbf3d44206ac772
 _md5_=4e37da8d9d0f4e8bc99a1cb0816441f4
