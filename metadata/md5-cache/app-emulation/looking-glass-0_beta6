@@ -1,4 +1,4 @@
-BDEPEND=wayland? ( dev-util/wayland-scanner ) doc? ( dev-python/sphinx dev-python/sphinx-rtd-theme ) app-alternatives/ninja >=dev-build/cmake-3.20.5
+BDEPEND=wayland? ( dev-util/wayland-scanner ) doc? ( dev-python/sphinx dev-python/sphinx-rtd-theme ) app-alternatives/ninja >=dev-build/cmake-3.28.5
 DEFINED_PHASES=compile configure install prepare test
 DEPEND=media-libs/libglvnd[X?] x11-libs/libxkbcommon[X?,wayland?] media-libs/fontconfig dev-libs/nettle:=[gmp] X? ( x11-libs/libX11 x11-libs/libXi x11-libs/libXfixes x11-libs/libXScrnSaver x11-libs/libXinerama x11-libs/libXcursor x11-libs/libXpresent ) debug? ( sys-libs/binutils-libs:= ) pipewire? ( media-video/pipewire:= media-libs/libsamplerate ) pulseaudio? ( media-libs/libpulse media-libs/libsamplerate ) wayland? ( dev-libs/wayland ) app-emulation/spice-protocol
 DESCRIPTION=A low latency KVM FrameRelay implementation for guests with VGA PCI Passthrough
@@ -12,5 +12,5 @@ RDEPEND=media-libs/libglvnd[X?] x11-libs/libxkbcommon[X?,wayland?] media-libs/fo
 REQUIRED_USE=|| ( X wayland )
 SLOT=0
 SRC_URI=https://looking-glass.io/artifact/B6/source -> looking-glass-0_beta6.tar.gz
-_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	460729dc36f68cf03b044bc1d367e34a
+_eclasses_=toolchain-funcs	a0b29008c671a362b505f96fa80ce9c0	flag-o-matic	a7afe42e95fb46ce9691605acfb24672	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	xdg-utils	42869b3c8d86a70ef3cf75165a395e09	cmake	cf95ad72ab207889c1668fc0d1bee181
 _md5_=c1fa95fa93aaef52237b31721304173d
